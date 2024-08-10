@@ -7,9 +7,9 @@ function widget:GetInfo()
 	return {
 		name = "Airjets GL4",
 		desc = "Thruster effects on air jet exhausts (auto limits and disables when low fps)",
-		author = "GoogleFrog, jK, Floris, Beherith",
+		author = "GoogleFrog, jK, Floris, Beherith (mysterme@gmail.com)",
 		date = "2021.05.16",
-		license = "Lua code is GNU GPL, v2 or later, GLSL shader code is (c) Beherith, mysterme@gmail.com",
+		license = "GNU GPL, v2 or later",
 		layer = -1,
 		enabled = true,
 	}

@@ -2,9 +2,9 @@ function gadget:GetInfo()
 	return {
 		name      = "Map Lava Gadget 2.4",
 		desc      = "lava",
-		author    = "knorke, Beherith, The_Yak, Anarchid, Kloot, Gajop, ivand, Damgam",
+		author    = "knorke, Beherith (mysterme@gmail.com), The_Yak, Anarchid, Kloot, Gajop, ivand, Damgam",
 		date      = "Feb 2011, Nov 2013, 2022!",
-		license   = "Lua: GNU GPL, v2 or later, GLSL: (c) Beherith (mysterme@gmail.com)",
+		license   = "GNU GPL, v2 or later",
 		layer     = -3,
 		enabled   = true
 	}

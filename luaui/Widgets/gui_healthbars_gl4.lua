@@ -2,9 +2,9 @@ function widget:GetInfo()
    return {
       name      = "Health Bars GL4",
       desc      = "Yes this healthbars, just gl4",
-      author    = "Beherith",
+      author    = "Beherith (mysterme@gmail.com)",
       date      = "October 2019",
-      license   = "GNU GPL, v2 or later for Lua code, (c) Beherith (mysterme@gmail.com) for GLSL",
+      license   = "GNU GPL, v2 or later",
       layer     = -10,
       enabled   = true
    }

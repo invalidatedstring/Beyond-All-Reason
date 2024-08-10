@@ -2,9 +2,9 @@ function widget:GetInfo()
 	return {
 		name      = "Sensor Ranges Sonar",
 		desc      = "Shows ranges of all ally sonar. (GL4)",
-		author    = "Kev, Beherith GL4, Borg_King",
+		author    = "Kev, Beherith (mysterme@gmail.com) GL4, Borg_King",
 		date      = "2021.06.20",
-		license   = "Lua: GPLv2, GLSL: (c) Beherith (mysterme@gmail.com)",
+		license   = "GNU GPL v2",
 		layer     = 0,
 		enabled   = true
 	}

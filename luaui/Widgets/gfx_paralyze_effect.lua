@@ -3,9 +3,9 @@ function widget:GetInfo()
     name      = "Paralyze Effect",
     version   = "v0.2",
     desc      = "Faster gl.UnitShape, Use WG.UnitShapeGL4",
-    author    = "Beherith",
+    author    = "Beherith (mysterme@gmail.com)",
     date      = "2021.11.04",
-    license   = "Lua Code: GPL V2, GLSL code: (c) Beherith (mysterme@gmail.com)",
+    license   = "GNU GPL V2",
     layer     = 0,
     enabled   = true,
   }

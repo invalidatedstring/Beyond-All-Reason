@@ -7,7 +7,7 @@ function widget:GetInfo()
 		desc = "Draws new Global fog",
 		author = "Beherith",
 		date = "2022.07.14",
-		license = "Lua code is GPL V2, GLSL is (c) Beherith",
+		license = "GNU GPL V2",
 		layer = 99992, -- lol this isnt even a number
 		enabled = false
 	}

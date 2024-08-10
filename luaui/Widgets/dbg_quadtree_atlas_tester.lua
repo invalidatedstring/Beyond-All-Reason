@@ -2,9 +2,9 @@ function widget:GetInfo()
 	return {
 		name = "AtlasOnDemand Tester",
 		desc = "This is just a test",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2023.",
-		license = "Lua code: GNU GPL, v2 or later, Shader GLSL code: (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL, v2 or later",
 		layer = -1,
 		enabled = false,
 	}

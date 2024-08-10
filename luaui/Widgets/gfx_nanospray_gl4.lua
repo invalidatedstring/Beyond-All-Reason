@@ -5,9 +5,9 @@ function widget:GetInfo()
 		name = "Nanospray GL4",
 		version = 3,
 		desc = "Draws Dense Nano Spray",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2023.01.04",
-		license = "Lua code is GPL V2, GLSL is (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL V2",
 		layer = -9999,
 		enabled = false
 	}

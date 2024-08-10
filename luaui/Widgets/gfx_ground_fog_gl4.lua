@@ -7,7 +7,7 @@ function widget:GetInfo()
 		desc = "Draws funny ground fog - DEPRECATED",
 		author = "Beherith",
 		date = "2022.07.14",
-		license = "Lua code is GPL V2, GLSL is (c) Beherith",
+		license = "GNU GPL V2",
 		layer = -99999990,
 		enabled = false
 	}

@@ -2,9 +2,9 @@ function widget:GetInfo()
 	return {
 		name = "Fog Volumes Old GL4",
 		desc = "Try to draw fog spheres",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2022.04.16",
-		license = "Lua code: GNU GPL, v2 or later, Shader GLSL code: (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL, v2 or later",
 		layer = -1,
 		enabled = false,
 	}

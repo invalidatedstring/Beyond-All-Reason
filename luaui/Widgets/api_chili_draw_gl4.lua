@@ -2,9 +2,9 @@ function widget:GetInfo()
 	return {
 		name = "Chili Draw GL4 API",
 		desc = "Draw a button (instanced)",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2022.02.07 - 2022.12.08", -- damn that took a while
-		license = "Lua: GNU GPL, v2 or later, GLSL: (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL, v2 or later",
 		layer = -1,
 		enabled = false,
 	}

@@ -4,9 +4,9 @@ function widget:GetInfo()
 	return {
 		name      = "Defense Range GL4",
 		desc      = "Displays range of defenses (enemy and ally)",
-		author    = "Beherith", -- yeah this is now a rewrite from scratch
+		author    = "Beherith (mysterme@gmail.com)",
 		date      = "2021.04.26",
-		license   = "Lua: GPLv2, GLSL: (c) Beherith (mysterme@gmail.com)",
+		license   = "GNU GPL v2",
 		layer     = -100,
 		enabled   = false
 	}

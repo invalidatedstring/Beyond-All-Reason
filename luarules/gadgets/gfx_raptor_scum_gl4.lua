@@ -2,9 +2,9 @@ function gadget:GetInfo()
 	return {
 		name = "Raptor Scum GL4",
 		desc = "Draws scum with global overlap texturing",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2022.04.20",
-		license = "Lua code: GNU GPL, v2 or later, Shader GLSL code: (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL, v2 or later",
 		layer = -1,
 		enabled = true,
 	}

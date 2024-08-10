@@ -5,9 +5,9 @@ function widget:GetInfo()
 		name = "Deferred rendering GL4",
 		version = 3,
 		desc = "Collects and renders cone, point and beam lights",
-		author = "Beherith",
+		author = "Beherith (mysterme@gmail.com)",
 		date = "2022.06.10",
-		license = "Lua code is GPL V2, GLSL is (c) Beherith (mysterme@gmail.com)",
+		license = "GNU GPL V2",
 		layer = -99999990,
 		enabled = true
 	}
